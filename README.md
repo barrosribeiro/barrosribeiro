@@ -1,3 +1,6 @@
+### :wave: :earth_americas: Hello Devs, seja bem vindo ao meu GitHub!
+* Sou analista de sistemas, trabalho com desenvolvimento de software e analise de dados.
+#### :airplane: Atualmente, trabalho no Centro de Gerenciamento da Navegação Aérea
 <div>
   <a href="https://github.com/barrosribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barrosribeiro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
